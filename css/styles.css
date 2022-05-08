@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #86C6F4;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Lora', serif;
+  line-height: 3;
+}
+
+hr{
+  border: dotted #D29D2B 6px;
+  border-bottom: none;
+  width: 25%;
+  margin: 100 auto 100 auto;
+}
+h2 {
+  font-size: 2.500rem;
+  font-family: 'Lora', serif;
+  color: #630606;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Sacramento', cursive;
+  color: #06113C;
+  font-size: 2.187rem;
+}
+
+.middle-container {
+  background-color: #86C6F4;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #D29D2B;
+  padding: 50px 0 20px;
+}
+
+.top-container {
+  background-color: #139487;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+p{
+  line-height: 2;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.footer-link {
+  color: #630606;
+  font-family: 'Lora', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.mic{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 46;
+  -moz-border-radius: 46;
+  border-radius: 46px;
+  font-family: 'Lora', serif;
+  color: #f7c511;
+  font-size: 20px;
+  background: #7a0000;
+  padding: 6px 25px 6px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fc3c3c;
+  text-decoration: none;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+  font-size: 0.75rem;
+  color: #FFF1CE;
+  padding: 20px 0;
+}
